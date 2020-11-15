@@ -2,8 +2,8 @@ __author__ = 'Siddhant Srivastava'
 
 import sys
 
-text = sys.argv[1]
-k = int(sys.argv[2])
+text = sys.argv[TAAACGTGAGAGAAACGTGCTGATTACACTTGTTCGTGTGGTAT]
+k = int(sys.argv[3])
 
 def count(text,pattern):
 	count = 0
