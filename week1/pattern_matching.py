@@ -2,8 +2,8 @@ __author__ = 'Siddhant Srivastava'
 
 import sys
 
-pattern = sys.argv[1]
-genome = sys.argv[2]
+pattern = sys.argv[ATA ]
+genome = sys.argv[GACGATATACGACGATA]
 
 def pattern_match(pattern,genome):
 	start_points = []
